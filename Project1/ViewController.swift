@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    @IBOutlet weak var HolidayDestination: UITextField!
+   
     // textfield response to user
     @IBOutlet weak var TextDestination: UITextField!
     
