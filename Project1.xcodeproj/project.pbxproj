@@ -14,6 +14,7 @@
 		53D0DE5F1BDE746400333A05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53D0DE5D1BDE746400333A05 /* LaunchScreen.storyboard */; };
 		53D0DE6A1BDE746400333A05 /* Project1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D0DE691BDE746400333A05 /* Project1Tests.swift */; };
 		53D0DE751BDE746400333A05 /* Project1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D0DE741BDE746400333A05 /* Project1UITests.swift */; };
+		53D0DE831BE2633800333A05 /* ReadMe in Resources */ = {isa = PBXBuildFile; fileRef = 53D0DE821BE2633800333A05 /* ReadMe */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		53D0DE701BDE746400333A05 /* Project1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		53D0DE741BDE746400333A05 /* Project1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project1UITests.swift; sourceTree = "<group>"; };
 		53D0DE761BDE746400333A05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53D0DE821BE2633800333A05 /* ReadMe */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				53D0DE541BDE746400333A05 /* AppDelegate.swift */,
+				53D0DE821BE2633800333A05 /* ReadMe */,
 				53D0DE561BDE746400333A05 /* ViewController.swift */,
 				53D0DE581BDE746400333A05 /* Main.storyboard */,
 				53D0DE5B1BDE746400333A05 /* Assets.xcassets */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53D0DE831BE2633800333A05 /* ReadMe in Resources */,
 				53D0DE5F1BDE746400333A05 /* LaunchScreen.storyboard in Resources */,
 				53D0DE5C1BDE746400333A05 /* Assets.xcassets in Resources */,
 				53D0DE5A1BDE746400333A05 /* Main.storyboard in Resources */,
